@@ -10,3 +10,5 @@ The datas for the neural network training were collected from this source: [here
 The datacollection was made by hand, saved in an CSV file. This contains two columns, the first the temperature collections dates and the second with the average temperatures for the specific days. It can be found in the repository.
 
 **Important to note:** If the user want to try with an own dataset, it is compulsory to do that with same structure, and "," separetad file.
+
+The training parameters were chosen in an empiric way.
